@@ -14,11 +14,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=jpa44" target="_blank">
+  <a href="https://app.daily.dev/jpa44" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/jpa44/jpa44/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/aea75ed6861e475fad623cf7ead2f28f.png"
     />
   </a>
 </div>
